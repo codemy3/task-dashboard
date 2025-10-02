@@ -113,6 +113,11 @@ README.md      # Project documentation
 * Code is structured to allow **easy scaling** and modular expansion
 
 ---
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/fbc60e96-7fa7-4593-88c9-107891db7ced" />
+<img width="1918" height="824" alt="image" src="https://github.com/user-attachments/assets/6cd5bb89-a0b7-4959-abb2-4d731d995bed" />
+<img width="1918" height="823" alt="image" src="https://github.com/user-attachments/assets/fb92ccc8-c361-447f-8051-ebbe66b68189" />
+
+
 
 ## Author
 
